@@ -1,0 +1,14 @@
+.contenedor {
+    display: flex;
+    justify-content: center;  
+    align-items: center;                  
+}
+
+.mi-header {
+    width: 200px;  
+    transition: width 0.3s ease, height 0.3s ease;
+}
+
+.mi-header:hover {
+    width: 10%;
+}

@@ -1,3 +1,7 @@
 p {
     background-color: rgb(178, 178, 232);
 }
+
+.button {
+    margin: 2%;
+}

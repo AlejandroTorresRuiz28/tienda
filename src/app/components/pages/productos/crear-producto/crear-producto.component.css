@@ -1,0 +1,16 @@
+label {
+    display: flex;
+    background: red;
+    justify-content: center;  
+    align-items: center;  
+}
+.crear-producto {
+    margin: 2%;
+}
+form {
+    margin: 2%;
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    flex-direction: column;
+}

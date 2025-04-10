@@ -1,0 +1,20 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #b42e24;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    padding: 0 40px;
+    text-align: center;
+}
+
+.texto-footer {
+    margin: 0;
+}
+
+.footer:hover {
+    background-color: #741717;  
+}
